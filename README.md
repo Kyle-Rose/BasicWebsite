@@ -40,4 +40,4 @@ This project is perfect for showcasing a beginner-friendly interactive feature f
 ## 🚀 How to Run Locally
 1. Clone the repository:  
 ```bash
-git clone https://github.com/Kyle-Rose/BasicWebsite.git
+git clone https://github.com/Kyle-Rose/InteractiveBackgroundApp.git
